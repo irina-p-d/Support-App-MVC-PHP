@@ -21,3 +21,7 @@ or
 
 Extra:
 - Darle formato a la fecha de creación: D-M-Year (hour:min:seconds)
+
+
+
+    voy por el video 131220021 2:20:
